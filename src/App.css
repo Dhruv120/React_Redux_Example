@@ -1,0 +1,30 @@
+.container{
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.btn{
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius:10px;
+  padding: 30px;
+  margin: 30px;
+  cursor: pointer;
+  
+}
+
+span{
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+input{
+  border: 2px solid black;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+}
